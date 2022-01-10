@@ -5,4 +5,4 @@ It's possible that some changes such as bug fixes and other clean-up might make 
 If you are in my class and have questions, please contact me with questions and comments via the communication channels available.
 If you are not in my class but have somehow stumbled across this code base...
 
-![Ironic "nothing to see here" scene from The Naked Gun](resources/images/nothing-to-see-here.gif)
+![Ironic "nothing to see here" scene from The Naked Gun](https://res.cloudinary.com/dm3fdmzec/image/upload/v1641851196/nothing-to-see-here_gf5axr.webp)
