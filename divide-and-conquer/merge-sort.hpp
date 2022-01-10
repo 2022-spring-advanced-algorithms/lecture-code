@@ -4,6 +4,10 @@
 
 class MergeSort
 {
+	private:
+		static void RecursiveSort(std::vector<int>& data, int start, int end);
+		static void Merge(std::vector<int>& data, int start, int end);
+
 	public:
 		static void Sort(std::vector<int>& data);
 };
