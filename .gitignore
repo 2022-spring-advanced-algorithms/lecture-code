@@ -595,3 +595,4 @@ test/*
 *.gc*
 **/*.dSYM
 merge-sort-test
+*.class
